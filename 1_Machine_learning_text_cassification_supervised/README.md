@@ -5,8 +5,8 @@
 > Vectorization of each word by applying Count Vectorization and TfidfTrasnformer to understand the  context.
 
 - Clean raw text data 
-- Count Vectorization and TfidfTrasnformer to understand the context of words across all the documents 
-- LinearSVC classification to create classification model
+- Count Vectorization and TfidfTrasnformer to analyze the context of words across all the documents 
+- LinearSVC classifier to create predicting model
 - Evaluate the predicting model by interpreting confusion matrix, classification report, accuracy, F1-score
 
 

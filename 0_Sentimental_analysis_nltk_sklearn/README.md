@@ -6,8 +6,8 @@
 
 - Clean raw text data and perform lemmatization
 - NLTK Sentiment Intensity Analyzer - Evaluate the Sentiment in of each review (positive, negative or neutral)
-- Count Vectorization and TfidfTrasnformer to understand the context of words across all the documents 
-- RandomForestClassifier classification for supervised learning
+- Count Vectorization and TfidfTrasnformer to analyze the context of words across all the documents 
+- RandomForestClassifier for supervised learning
 
 
 **Required libraries**: *nltk, sklearn, wordcloud, numpy, pandas, matplotlib*
